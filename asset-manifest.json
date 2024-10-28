@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dd9bf88.css",
+    "main.js": "/static/js/main.a05b16ab.js",
+    "static/js/453.dcd85d1e.chunk.js": "/static/js/453.dcd85d1e.chunk.js",
+    "static/media/sea.jpg": "/static/media/sea.71ced109ecf83420c7cd.jpg",
+    "static/media/free-icon-coupons-15268294.png": "/static/media/free-icon-coupons-15268294.d9262d4111f36a0ff07d.png",
+    "index.html": "/index.html",
+    "main.8dd9bf88.css.map": "/static/css/main.8dd9bf88.css.map",
+    "main.a05b16ab.js.map": "/static/js/main.a05b16ab.js.map",
+    "453.dcd85d1e.chunk.js.map": "/static/js/453.dcd85d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd9bf88.css",
+    "static/js/main.a05b16ab.js"
+  ]
+}
